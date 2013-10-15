@@ -1,4 +1,4 @@
 thesis-specification
 ====================
 
-MOBBL Config Utils (documenting≠
+Master's thesis on specification and accompanying toolset.
